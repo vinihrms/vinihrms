@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there 👋 I'm Vinicius! Welcome to my profile!
+## I'm a passionnant fullstack student from Brazil.
+### Here you will find my learning projects
 
-**vinihrms/vinihrms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **vinihrms/vinihrms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

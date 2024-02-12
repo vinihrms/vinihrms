@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/vncshrms" target="blank"><img src="https://img.shields.io/twitter/follow/vncshrms?logo=twitter&style=for-the-badge" alt="vncshrms" /></a> </p>
 
-- 🔭 I’m currently working on **My Final Paper from my high school technical course**
+- 🔭 I’m currently working on **My Final Paper from my high school technical course** (https://github.com/vinihrms/EVOLVE-DESK)
 
 - 🌱 I’m currently learning **React.js**
 

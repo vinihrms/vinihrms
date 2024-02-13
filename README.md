@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinicius! Welcome to my profile!</h1>
+<h1 align="center">Yo 👋, I'm Vinicius! Welcome to my profile!</h1>
 <h3 align="center">I'm a passionate student from Brazil 🇧🇷</h3>
 
 <p align="left"> <a href="https://twitter.com/vncshrms" target="blank"><img src="https://img.shields.io/twitter/follow/vncshrms?logo=twitter&style=for-the-badge" alt="vncshrms" /></a> </p>

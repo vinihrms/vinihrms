@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My Final Paper from my high school technical course** (https://github.com/vinihrms/food-delivery-TCC)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **PHP**
 
 - ⚡ Fun fact **I love listen to music. That's my favorite hobbie**
 

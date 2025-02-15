@@ -3,15 +3,14 @@
 
 <p align="left"> <a href="https://twitter.com/vncshrms" target="blank"><img src="https://img.shields.io/twitter/follow/vncshrms?logo=twitter&style=for-the-badge" alt="vncshrms" /></a> </p>
 
-- 🔭 I’m currently working on **My Final Paper from my high school technical course** (https://github.com/vinihrms/food-delivery)
+- 🔭 I’m currently working on ** Porject ** (https://github.com/)
 
 - 🌱 I’m currently learning **PHP**
 
-- ⚡ Fun fact **I love listen to music. That's my favorite hobbie**
+- ⚡ Fun fact **I love to play chess. That's my favorite hobbie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vncshrms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vncshrms" height="30" width="40" /></a>
 <a href="https://instagram.com/vncs.hrms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vncs.hrms" height="30" width="40" /></a>
 </p>
 

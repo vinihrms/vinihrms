@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/vncshrms" target="blank"><img src="https://img.shields.io/twitter/follow/vncshrms?logo=twitter&style=for-the-badge" alt="vncshrms" /></a> </p>
 
-- 🔭 I’m currently working on ** Porject ** (https://github.com/)
+- 🔭 I’m currently working on ** Project ** (https://github.com/)
 
 - 🌱 I’m currently learning **PHP**
 

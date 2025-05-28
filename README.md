@@ -1,22 +1,42 @@
-<h1 align="center">Yo 👋, I'm Vinícius! Welcome to my profile!</h1>
-<h3 align="center">I'm a passionate student from Brazil 🇧🇷</h3>
+<!-- GitHub Profile README.md -->
 
-<p align="left"> <a href="https://twitter.com/vncshrms" target="blank"><img src="https://img.shields.io/twitter/follow/vncshrms?logo=twitter&style=for-the-badge" alt="vncshrms" /></a> </p>
+<h1 align="center">Hey there / E aí, eu sou o Vinícius👋</h1>
 
-- 🔭 I’m currently working on ** Project ** (https://github.com/)
-
-- 🌱 I’m currently learning **PHP**
-
-- ⚡ Fun fact **I love to play chess. That's my favorite hobbie**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/vncs.hrms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vncs.hrms" height="30" width="40" /></a>
+<p align="center">
+  🇧🇷 Estudante de Ciência da Computação na UNIOESTE 💻 | Praticante de Esportes ⚽♣️ | Amante de Xadrez ♟️ | Minimalismo Digital 🌿  
+  <br>🇺🇸 Computer Science student at UNIOESTE 💻 | Sports enthusiast ⚽♣️ | Chess lover ♟️ | Digital Minimalist 🌿
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <p align="left"> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinihrms&show_icons=true&locale=en&layout=compact" alt="vinihrms" /></p>
+### 🚀 Sobre mim / About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinihrms&" alt="vinihrms" /></p>
+- 🎓 🇧🇷 Cursando Ciência da Computação @ UNIOESTE  
+  🎓 🇺🇸 Studying Computer Science @ UNIOESTE
+
+- 🧠 🇧🇷 Interesse por sistemas embarcados e software livre  
+  🧠 🇺🇸 Interested in embedded systems and free software
+
+- 🛠️ 🇧🇷 Desenvolvendo projetos em PHP (CodeIgniter), C e Shell Script  
+  🛠️ 🇺🇸 Building projects using PHP (CodeIgniter), C, and Shell Script
+
+---
+
+### 🧰 Tecnologias que uso / Technologies I Work With
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-E44D26?style=flat&logo=codeigniter&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+---
+
+### 📫 Contato / Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-hermes-795227260/)
+
+---
+
+> 🇧🇷 “O segredo da existência humana não está apenas em viver, mas também em saber pelo que se vive.” — Fiódor Dostoiévski  
+> 🇺🇸 “The mystery of human existence lies not in just staying alive, but in finding something to live for.” — Fyodor Dostoevsky

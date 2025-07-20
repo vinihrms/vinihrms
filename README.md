@@ -1,11 +1,11 @@
 <p align="center">
-  <br>🇺🇸 Computer Science student at Universidade Estadual do Oeste do Paraná - Unioeste
+  <br>Computer Science student at Universidade Estadual do Oeste do Paraná - Unioeste
 </p>
 
 
 ---
 
-### 🧰Tecnologies
+### Tecnologies
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -15,9 +15,9 @@
 
 ---
 
-### 📫 Contato / Contact
+### Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-hermes-795227260/)
+- [LinkedIn](https://www.linkedin.com/in/vinicius-hermes-795227260/)
 
 ---
 

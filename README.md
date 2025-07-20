@@ -1,28 +1,13 @@
-<!-- GitHub Profile README.md -->
-
-<h1 align="center">Hey there / E aí, eu sou o Vinícius👋</h1>
 
 <p align="center">
-  🇧🇷 Estudante de Ciência da Computação na UNIOESTE 💻 | Praticante de Esportes ⚽♣️ | Amante de Xadrez ♟️ | Minimalismo Digital 🌿  
-  <br>🇺🇸 Computer Science student at UNIOESTE 💻 | Sports enthusiast ⚽♣️ | Chess lover ♟️ | Digital Minimalist 🌿
+  
+  <br>🇺🇸 Computer Science student at Universidade Estadual do Oeste do Paraná - Unioeste
 </p>
 
----
-
-### 🚀 Sobre mim / About Me
-
-- 🎓 🇧🇷 Cursando Ciência da Computação @ UNIOESTE  
-  🎓 🇺🇸 Studying Computer Science @ UNIOESTE
-
-- 🧠 🇧🇷 Interesse por sistemas embarcados e software livre  
-  🧠 🇺🇸 Interested in embedded systems and free software
-
-- 🛠️ 🇧🇷 Desenvolvendo projetos em PHP (CodeIgniter), C e Shell Script  
-  🛠️ 🇺🇸 Building projects using PHP (CodeIgniter), C, and Shell Script
 
 ---
 
-### 🧰 Tecnologias que uso / Technologies I Work With
+### 🧰Tecnologies
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -38,5 +23,4 @@
 
 ---
 
-> 🇧🇷 “O segredo da existência humana não está apenas em viver, mas também em saber pelo que se vive.” — Fiódor Dostoiévski  
-> 🇺🇸 “The mystery of human existence lies not in just staying alive, but in finding something to live for.” — Fyodor Dostoevsky
+> the world is yours.
